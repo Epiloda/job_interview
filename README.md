@@ -1,1 +1,53 @@
-IyDlrp7kuaDpnaLor5XmiYvmkpXku6PnoIEKCuacrOS7k+W6k+iusOW9leWunuS5oOmdouivleS4remBh+WIsOeahOaJi+aSleS7o+eggemimOebruWPiuWFtuWunueOsOOAggoKLS0tCgojIyAxLiDlvILmraUgRklGTwoKLSAqKuaWh+S7tioq77yaW2NvZGluZy9hc3luY19maWZvL2FzeW5jX0ZJRk8udl0oY29kaW5nL2FzeW5jX2ZpZm8vYXN5bmNfRklGTy52KQotICoq6K+t6KiAKirvvJpWZXJpbG9nCi0gKirnn6Xor4bngrkqKu+8mgogIC0g6Leo5pe26ZKf5Z+f5aSE55CG77yIQ0RD77yJ4oCUIEdyYXkg56CBICsg5Lik57qn5ZCM5q2l5Zmo5raI6Zmk5Lqa56iz5oCBCiAgLSDmjIfpkojmianlsZUgMSBiaXQg5Yy65YiG56m6L+a7oe+8iCROJCDmt7HluqbnlKggJE4rMSQg5L2N5oyH6ZKI77yJCiAgLSDnqbrmu6HliKTmlq3nrZbnlaXvvJrkv53lrojmu6HvvIjmm7Tml6nor7Tmu6HvvIzkv53or4HkuI3muqLlh7rvvInjgIHkuZDop4LnqbrvvIjmm7TmmZror7TnqbrvvIkKICAtIOWPguaVsOWMluiuvuiuoe+8jOaUr+aMgeS7u+aEj+a3seW6puWSjOaVsOaNruS9jeWuvQoKLS0tCgojIyAyLiBOIOS9jeiuoeaVsOWZqAoKLSAqKuaWh+S7tioq77yaW2NvZGluZy9OX2JpdF9jbnQvTl9iaXRfY250LnZdKGNvZGluZy9OX2JpdF9jbnQvTl9iaXRfY250LnYpCi0gKiror63oqIAqKu+8mlZlcmlsb2cKLSAqKuefpeivhueCuSoq77yaCiAgLSDlj4LmlbDljJborr7orqEg4oCUICRjbG9nMigpIOiuoeeul+iuoeaVsOWZqOeahOS9jeWuvQogIC0g5byC5q2l5L2O5pyJ5pWI5aSN5L2NIOKAlCBhbHdheXMgQChwb3NlZGdlIGNsayBvciBuZWdlZGdlIHJzdF9uKQogIC0g6K6h5pWw5rqi5Ye65L+d5oqkIOKAlCDorqHliLAgQ05UX05VTUJFUi0xIOWQjua4hembtgogIC0g6Z2e6Zi75aGe6LWL5YC8IOKAlCBhbHdheXMg5Z2X5YaF57uf5LiA5L2/55SoIDw9CgotLS0KCiMjIDMuIOW6j+WIl+ajgOa1i+WZqAoKLSAqKuaWh+S7tioq77yaW2NvZGluZy9zZXF1ZW5jZV9kZXRlY3Rvci9zZXF1ZW5jZV9kZXRlY3Rvci52XShjb2Rpbmcvc2VxdWVuY2VfZGV0ZWN0b3Ivc2VxdWVuY2VfZGV0ZWN0b3IudikKLSAqKuivreiogCoq77yaVmVyaWxvZwotICoq5qOA5rWL5bqP5YiXKirvvJoxMDEwXzExMDEKLSAqKuefpeivhueCuSoq77yaCiAgLSBNb29yZSDlnovnirbmgIHmnLog4oCUIOi+k+WHuuS7heS+nei1luW9k+WJjeeKtuaAgQogIC0g5Lik5q615byP54q25oCB5py6IOKAlCDnu4TlkIjpgLvovpHorqHnrpcgbmV4dF9zdGF0Ze+8jOaXtuW6j+mAu+i+keabtOaWsCBjdXJyZW50X3N0YXRlCiAgLSDpg6jliIbph43lj6DvvIhPdmVybGFwcGluZ++8ieajgOa1iyDigJQgSCDnirbmgIHlkI7pgYfliLAgMCDku44gQiDlvIDlp4vnu6fnu63mo4DmtYsKICAtICRjbG9nMigpIOiuoeeul+eKtuaAgee8lueggeS9jeWuvQoKLS0tCgojIyA0LiDml6Dmr5vliLrml7bpkp/liIfmjaLlmagKCi0gKirmlofku7YqKu+8mltjb2RpbmcvZ2xpdGNoX2ZyZWVfY2xvY2tfc3dpdGNoL2dsaXRjaF9mcmVlX2Nsb2NrX3N3aXRjaC52XShjb2RpbmcvZ2xpdGNoX2ZyZWVfY2xvY2tfc3dpdGNoL2dsaXRjaF9mcmVlX2Nsb2NrX3N3aXRjaC52KQotICoq6K+t6KiAKirvvJpWZXJpbG9nCi0gKirnn6Xor4bngrkqKu+8mgogIC0gR2xpdGNoLUZyZWUg5Y6f55CGIOKAlCDml6fml7bpkp/lrozlhajlhbPpl63lkI7mlrDml7bpkp/miY3lvIDlkK/vvIzpgb/lhY3nu4TlkIjpgLvovpHpgInpgJrkuqfnlJ/nmoTmr5vliLoKICAtIOWPjOi3r+W+hOaPoeaJi+aetuaehCDigJQgY2xrMC9jbGsxIOWQhOi1sOS4gOadoei3r+W+hO+8jOS6kuaWpei+k+WHugogIC0g5LiL6ZmN5rK/6Kem5Y+R6LW35aeLIOKAlCDkvY7nlLXlubPmnJ/pl7TliIfmjaLvvIzpgb/lhY3pq5jnlLXlubPliIfmjaLkuqfnlJ8gZ2xpdGNoCiAgLSDkuKTnuqcgREZGIOWQjOatpeWZqCDigJQgZGZmMCDph4fmoLcgKyBkZmYxIOeos+Wumui+k+WHugogIC0g5YW45Z6LIEJVR++8muaXtumSn+mXqOaOp+S/oeWPt+iHquWPjemmiOWvvOiHtOi3r+W+hOWkseaViAo=
+# 实习面试手撕代码
+
+本仓库记录实习面试中遇到的手撕代码题目及其实现。
+
+---
+
+## 1. 异步 FIFO
+
+- **文件**：[coding/async_fifo/async_FIFO.v](coding/async_fifo/async_FIFO.v)
+- **语言**：Verilog
+- **知识点**：
+  - 跨时钟域处理（CDC）— Gray 码 + 两级同步器消除亚稳态
+  - 指针扩展 1 bit 区分空/满（$N$ 深度用 $N+1$ 位指针）
+  - 空满判断策略：保守满（更早说满，保证不溢出）、乐观空（更晚说空）
+  - 参数化设计，支持任意深度和数据位宽
+
+---
+
+## 2. N 位计数器
+
+- **文件**：[coding/N_bit_cnt/N_bit_cnt.v](coding/N_bit_cnt/N_bit_cnt.v)
+- **语言**：Verilog
+- **知识点**：
+  - 参数化设计 — $clog2() 计算计数器的位宽
+  - 异步低有效复位 — always @(posedge clk or negedge rst_n)
+  - 计数溢出保护 — 计到 CNT_NUMBER-1 后清零
+  - 非阻塞赋值 — always 块内统一使用 <=
+
+---
+
+## 3. 序列检测器
+
+- **文件**：[coding/sequence_detector/sequence_detector.v](coding/sequence_detector/sequence_detector.v)
+- **语言**：Verilog
+- **检测序列**：1010_1101
+- **知识点**：
+  - Moore 型状态机 — 输出仅依赖当前状态
+  - 两段式状态机 — 组合逻辑计算 next_state，时序逻辑更新 current_state
+  - 部分重叠（Overlapping）检测 — H 状态后遇到 0 从 B 开始继续检测
+  - $clog2() 计算状态编码位宽
+
+---
+
+## 4. 无毛刺时钟切换器
+
+- **文件**：[coding/glitch_free_clock_switch/glitch_free_clock_switch.v](coding/glitch_free_clock_switch/glitch_free_clock_switch.v)
+- **语言**：Verilog
+- **知识点**：
+  - Glitch-Free 原理 — 旧时钟完全关闭后新时钟才开启，避免组合逻辑选通产生的毛刺
+  - 双路径握手架构 — clk0/clk1 各走一条路径，互斥输出
+  - 下降沿触发起始 — 低电平期间切换，避免高电平切换产生 glitch
+  - 两级 DFF 同步器 — dff0 采样 + dff1 稳定输出
+  - 典型 BUG：时钟门控信号自反馈导致路径失效
