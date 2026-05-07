@@ -1,1 +1,150 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQ0KLy8g44CQ55+l6K+G54K544CRDQovLw0KLy8g44CQMS4g54q25oCB5py66K6+6K6h77yITW9vcmUg5Z6L77yJ44CRDQovLyAgICAtIOacrOaooeWdl+S4uiBNb29yZSDlnovnirbmgIHmnLrvvJrnirbmgIHmlbAgUz0577yISURMRX5I77yJ77yM5qOA5rWL5bqP5YiXIDEwMTBfMTEwMe+8iDhiaXTvvIkNCi8vICAgIC0gTW9vcmUg5Z6L54m554K5OiDovpPlh7rlj6rkvp3otZblvZPliY3nirbmgIEoY3VycmVudF9zdGF0ZSnvvIzkuI3nm7TmjqXkvp3otZbovpPlhaXkv6Hlj7cNCi8vICAgIC0g6L6T5Ye6OiBtYXRjaD0xIOS7heWcqOeKtuaAgeacuuWkhOS6jiBIIOeKtuaAgeaXtuaIkOeri++8jOS4jui+k+WFpeW6j+WIl+aXoOWFsw0KLy8gICAgLSDnirbmgIHovaznp7vnlLHovpPlhaUgc2VxdWVuY2Ug5Yaz5a6a77yM5q+P5ouN6L6T5YWlIDFiaXTvvIw4IOaLjeWujOaIkOS4gOasoeajgOa1iw0KLy8gICAgLSDnirbmgIHovaznp7vop4Tlvos6DQovLyAgICAgICAgSURMRSAtLTEtLT4gQSAgICAgICAgQSAtLTEtLT4gQe+8iOS/neaMgeWcqEHvvIkgIEEgLS0wLS0+IEINCi8vICAgICAgICBCIC0tMS0tPiBDICAgICAgICAgICAgQyAtLTEtLT4gQe+8iOmDqOWIhumHjeWPoO+8iSBDIC0tMC0tPiBEDQovLyAgICAgICAgRCAtLTEtLT4gRSAgICAgICAgICAgIEUgLS0xLS0+IEYgICAgICAgICAgICBFIC0tMC0tPiBEDQovLyAgICAgICAgRiAtLTEtLT4gQe+8iOmDqOWIhumHjeWPoO+8iUYgLS0wLS0+IEcNCi8vICAgICAgICBHIC0tMS0tPiBIICAgICAgICAgICAgRyAtLTAtLT4gSURMRQ0KLy8gICAgICAgIEggLS0xLS0+IEEgICAgICAgICAgICBIIC0tMC0tPiBC77yI6YOo5YiG6YeN5Y+g77yM5LiL5LiA5Liq5bqP5YiX5LuOIEIg5byA5aeL77yJDQovLw0KLy8g44CQMi4g54q25oCB57yW56CB5a695bqm44CRDQovLyAgICAtIGN1cnJlbnRfc3RhdGUvbmV4dF9zdGF0ZSDkvY3lrr06ICRjbG9nMihEQVRBX1dJRFRIKSsxLTEgPSAkY2xvZzIoOCkgPSAz77yM5Y2zIDRiaXTvvIgwfjE177yJDQovLyAgICAtIDkg5Liq54q25oCB77yIMH4477yJ6ZyA6KaBIDRiaXTvvIw0Yml0IOWPr+ihqOekuiAwfjE177yM6Laz5aSf5a6557qzDQovLyAgICAtICdiMCDotYvlgLznu5kgNGJpdCDlr4TlrZjlmajml7YgVmVyaWxvZyDoh6rliqjpm7bmianlsZXkuLogNCdiMDAwMO+8jOWuieWFqA0KLy8gICAgLSDlu7rorq7mmL7lvI/lhpnkvZwge1NUQVRFX1dJRFRIezEnYjB9fSDmiJYgJzAg5pu06KeE6IyDDQovLw0KLy8g44CQMy4g5Lik5q615byP54q25oCB5py644CRDQovLyAgICAtIOautTE6IOaXtuW6j+mAu+i+kSBhbHdheXMg5Z2X77yM55SoIGNsayDlkIzmraXmm7TmlrAgY3VycmVudF9zdGF0ZSA8PSBuZXh0X3N0YXRlDQovLyAgICAtIOautTI6IOe7hOWQiOmAu+i+kSBhbHdheXMg5Z2X77yM5qC55o2uIGN1cnJlbnRfc3RhdGUg5ZKM6L6T5YWl6K6h566XIG5leHRfc3RhdGUNCi8vICAgIC0g5Lik5q615byP6YG/5YWN57uE5ZCI6YC76L6R546v6Lev77yM5piv5qCH5YeG5YaZ5rOVDQovLw0KLy8g44CQNC4gbWF0Y2gg6L6T5Ye66YC76L6R44CRDQovLyAgICAtIOW9k+WJjeS7o+eggTogYXNzaWduIGxldmVsID0gKG5leHRfc3RhdGUgPT0gSCnvvIznuq/nu4TlkIjpgLvovpHvvIzovpPlh7rot5/pmo8gbmV4dF9zdGF0ZQ0KLy8gICAgLSDms6jmhI86IG5leHRfc3RhdGUg5Zyo5b2T5YmN5pe26ZKf5rK/6K6h566X77yM5LiL5LiA5ouN5omN5pu05paw5YiwIGN1cnJlbnRfc3RhdGUNCi8vICAgIC0g6Iul5biM5pybIG1hdGNoIOWPquWcqOajgOa1i+WIsOW6j+WIl+eahCoq6YKj5LiA5Liq5pe26ZKf5ZGo5pyfKirmiJDnq4vvvIzlupTkvb/nlKg6DQovLyAgICAgICAgYWx3YXlzIEAocG9zZWRnZSBjbGspIG1hdGNoIDw9IChjdXJyZW50X3N0YXRlID09IEgpOw0KLy8gICAgICDljbPln7rkuo4gY3VycmVudF9zdGF0ZSDlr4TlrZjovpPlh7rvvIzovpPlh7rkvJrmr5QgbmV4dF9zdGF0ZSDmmZrkuIDmi40NCi8vICAgIC0g5b2T5YmN5a6e546wIG1hdGNoIOWcqOeKtuaAgSBIIOacn+mXtOWni+e7iOS4uiAx77yM5bGe5LqO55S15bmz6L6T5Ye66ICM6Z2e5Y2V6ISJ5YayDQovLw0KLy8g44CQNS4g6YOo5YiG6YeN5Y+g77yIT3ZlcmxhcHBpbmfvvInmo4DmtYvjgJENCi8vICAgIC0g5b2T5YmN54q25oCB5py65Li6IumDqOWIhumHjeWPoCLmqKHlvI/vvJrmo4DmtYvliLAgSCDlkI7vvIzkuIvkuIDkuKogMCDkuI3mmK/ku44gSURMRSDlvIDlp4vogIzmmK/ku44gQiDlvIDlp4sNCi8vICAgICAg5oSP5ZGz552A5qOA5rWL5YiwIDEwMTAxMTAxIOWQju+8jOWmguaenOS4i+S4gCBiaXQ9MO+8jOS4i+S4gOS4quW6j+WIl+WPr+iDveS7jiBCIOW8gOWni++8iDEwMTBfMTF4eC4uLu+8iQ0KLy8gICAgLSDpnZ7ph43lj6DmqKHlvI86IEgg5LmL5ZCO5by65Yi25Zue5YiwIElETEXvvIzlv4Xpobvph43mlrDlvIDlp4vlrozmlbQgOGJpdCDluo/liJcNCi8vICAgIC0g6YCJ5oup5ZOq56eN5qih5byP5Y+W5Yaz5LqO5bqU55So6ZyA5rGC77yM5pys6K6+6K6h6YeH55So6YOo5YiG6YeN5Y+g5Lul5o+Q6auY5qOA5rWL54G15pWP5bqmDQovLw0KLy8g44CQNi4gREFUQV9XSURUSCDlj4LmlbDjgJENCi8vICAgIC0g5Y+C5pWw5a6a5LmJ5Li6IDjvvIzooajnpLrlvoXmo4DmtYvluo/liJfnmoTmgLvkvY3mlbANCi8vICAgIC0g5rOo5oSPOiDlvZPliY3ku6PnoIHkuK0gREFUQV9XSURUSCDku4XnlKjkuo7orqHnrpfnirbmgIHlr4TlrZjlmajkvY3lrr3vvIzmnKrlj4LkuI7nirbmgIHovaznp7vpgLvovpENCi8vICAgIC0g6Iul6KaB5pSv5oyB5Lu75oSP6ZW/5bqm5bqP5YiX55qE5Y+C5pWw5YyW77yM5bqU5Zyo54q25oCB6L2s56e76YC76L6R5Lit5Yqo5oCB5L2/55SoIERBVEFfV0lEVEgNCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0NCg0KbW9kdWxlIHNlcXVlbmNlX2RldGVjdG9yICMoDQogICAgcGFyYW1ldGVyIERBVEFfV0lEVEggPSA4DQopICgNCiAgICBpbnB1dCBjbGssIHJzdF9uLA0KICAgIC8vIGRldGVjdCA4J2IxMDEwXzExMDENCiAgICBpbnB1dCBzZXF1ZW5jZSwNCiAgICBvdXRwdXQgcmVnIG1hdGNoDQopOw0KDQogICAgbG9jYWxwYXJhbSAgSURMRSA9IDA7DQogICAgbG9jYWxwYXJhbSAgQSA9IDE7DQogICAgbG9jYWxwYXJhbSAgQiA9IDI7DQogICAgbG9jYWxwYXJhbSAgQyA9IDM7DQogICAgbG9jYWxwYXJhbSAgRCA9IDQ7DQogICAgbG9jYWxwYXJhbSAgRSA9IDU7DQogICAgbG9jYWxwYXJhbSAgRiA9IDY7DQogICAgbG9jYWxwYXJhbSAgRyA9IDc7DQogICAgbG9jYWxwYXJhbSAgSCA9IDg7DQogICAgDQoNCiAgICByZWcgWyRjbG9nMihEQVRBX1dJRFRIKSArIDEgLSAxIDogMF0gY3VycmVudF9zdGF0ZSwgbmV4dF9zdGF0ZTsNCg0KICAgIGFsd2F5cyBAKHBvc2VkZ2UgY2xrIG9yIG5lZ2VkZ2UgcnN0X24pIGJlZ2luDQogICAgICAgIGlmICghcnN0X24pIGJlZ2luDQogICAgICAgICAgICBtYXRjaCA8PSAxJ2IwOw0KICAgICAgICBlbmQNCg0KICAgICAgICBlbHNlIGlmIChjdXJyZW50X3N0YXRlID09IEgpIGJlZ2luDQogICAgICAgICAgICBtYXRjaCA8PSAxJ2IxOw0KICAgICAgICBlbmQNCg0KICAgICAgICBlbHNlIGJlZ2luDQogICAgICAgICAgICBtYXRjaCA8PSAxJ2IwOw0KICAgICAgICBlbmQNCiAgICBlbmQNCg0KICAgIGFsd2F5cyBAKHBvc2VkZ2UgY2xrIG9yIG5lZ2VkZ2UgcnN0X24pIGJlZ2luDQogICAgICAgIGlmICghcnN0X24pIGJlZ2luDQogICAgICAgICAgICBjdXJyZW50X3N0YXRlIDw9ICdiMDsNCiAgICAgICAgZW5kDQoNCiAgICAgICAgZWxzZSBiZWdpbg0KICAgICAgICAgICAgY3VycmVudF9zdGF0ZSA8PSBuZXh0X3N0YXRlOw0KICAgICAgICBlbmQNCiAgICBlbmQNCg0KICAgIGFsd2F5cyBAKHBvc2VkZ2UgY2xrIG9yIG5lZ2VkZ2UgcnN0X24pIGJlZ2luDQogICAgICAgIGlmICghcnN0X24pIGJlZ2luDQogICAgICAgICAgICBuZXh0X3N0YXRlIDw9ICdiMDsNCiAgICAgICAgZW5kDQoNCiAgICAgICAgZWxzZSBiZWdpbg0KICAgICAgICBjYXNlIChjdXJyZW50X3N0YXRlKQ0KICAgICAgICAgICAgSURMRTogYmVnaW4NCiAgICAgICAgICAgICAgICBpZiAoc2VxdWVuY2UpIG5leHRfc3RhdGUgPD0gQTsNCiAgICAgICAgICAgICAgICBlbHNlIG5leHRfc3RhdGUgPD0gSURMRTsNCiAgICAgICAgICAgIGVuZCANCg0KICAgICAgICAgICAgQTogYmVnaW4NCiAgICAgICAgICAgICAgICBpZiAoc2VxdWVuY2UpIG5leHRfc3RhdGUgPD0gQTsNCiAgICAgICAgICAgICAgICBlbHNlIG5leHRfc3RhdGUgPD0gQjsNCiAgICAgICAgICAgIGVuZCANCg0KICAgICAgICAgICAgQjogYmVnaW4NCiAgICAgICAgICAgICAgICBpZiAoc2VxdWVuY2UpIG5leHRfc3RhdGUgPD0gQzsNCiAgICAgICAgICAgICAgICBlbHNlIG5leHRfc3RhdGUgPD0gSURMRTsNCiAgICAgICAgICAgIGVuZCANCg0KICAgICAgICAgICAgQzogYmVnaW4NCiAgICAgICAgICAgICAgICBpZiAoc2VxdWVuY2UpIG5leHRfc3RhdGUgPD0gQTsNCiAgICAgICAgICAgICAgICBlbHNlIG5leHRfc3RhdGUgPD0gRDsNCiAgICAgICAgICAgIGVuZCANCg0KICAgICAgICAgICAgRDogYmVnaW4NCiAgICAgICAgICAgICAgICBpZiAoc2VxdWVuY2UpIG5leHRfc3RhdGUgPD0gRTsNCiAgICAgICAgICAgICAgICBlbHNlIG5leHRfc3RhdGUgPD0gSURMRTsNCiAgICAgICAgICAgIGVuZCANCg0KICAgICAgICAgICAgRTogYmVnaW4NCiAgICAgICAgICAgICAgICBpZiAoc2VxdWVuY2UpIG5leHRfc3RhdGUgPD0gRjsNCiAgICAgICAgICAgICAgICBlbHNlIG5leHRfc3RhdGUgPD0gRDsNCiAgICAgICAgICAgIGVuZCANCg0KICAgICAgICAgICAgRjogYmVnaW4NCiAgICAgICAgICAgICAgICBpZiAoc2VxdWVuY2UpIG5leHRfc3RhdGUgPD0gQTsNCiAgICAgICAgICAgICAgICBlbHNlIG5leHRfc3RhdGUgPD0gRzsNCiAgICAgICAgICAgIGVuZCANCg0KICAgICAgICAgICAgRzogYmVnaW4NCiAgICAgICAgICAgICAgICBpZiAoc2VxdWVuY2UpIG5leHRfc3RhdGUgPD0gSDsNCiAgICAgICAgICAgICAgICBlbHNlIG5leHRfc3RhdGUgPD0gSURMRTsNCiAgICAgICAgICAgIGVuZCANCg0KICAgICAgICAgICAgSDogYmVnaW4NCiAgICAgICAgICAgICAgICBpZiAoc2VxdWVuY2UpIG5leHRfc3RhdGUgPD0gQTsNCiAgICAgICAgICAgICAgICBlbHNlIG5leHRfc3RhdGUgPD0gQjsNCiAgICAgICAgICAgIGVuZCANCiAgICAgICAgICAgIA0KICAgICAgICAgICAgZGVmYXVsdDogbmV4dF9zdGF0ZSA8PSBJRExFOw0KICAgICAgICBlbmRjYXNlDQogICAgICAgIGVuZA0KICAgIGVuZA0KZW5kbW9kdWxlDQo=
+// ============================================================================
+// 【知识点】
+//
+// 【1. 状态机设计（Moore 型）】
+//    - 本模块为 Moore 型状态机：状态数 S=9（IDLE~H），检测序列 1010_1101（8bit）
+//    - Moore 型特点: 输出只依赖当前状态(current_state)，不直接依赖输入信号
+//    - 输出: match=1 仅在状态机处于 H 状态时成立，与输入序列无关
+//    - 状态转移由输入 sequence 决定，每拍输入 1bit，8 拍完成一次检测
+//    - 状态转移规律:
+//        IDLE --1--> A        A --1--> A（保持在A）  A --0--> B
+//        B --1--> C            C --1--> A（部分重叠） C --0--> D
+//        D --1--> E            E --1--> F            E --0--> D
+//        F --1--> A（部分重叠）F --0--> G
+//        G --1--> H            G --0--> IDLE
+//        H --1--> A            H --0--> B（部分重叠，下一个序列从 B 开始）
+//
+// 【2. 状态编码宽度】
+//    - current_state/next_state 位宽: $clog2(DATA_WIDTH)+1-1 = $clog2(8) = 3，即 4bit（0~15）
+//    - 9 个状态（0~8）需要 4bit，4bit 可表示 0~15，足够容纳
+//    - 'b0 赋值给 4bit 寄存器时 Verilog 自动零扩展为 4'b0000，安全
+//    - 建议显式写作 {STATE_WIDTH{1'b0}} 或 '0 更规范
+//
+// 【3. 两段式状态机】
+//    - 段1: 时序逻辑 always 块，用 clk 同步更新 current_state <= next_state
+//    - 段2: 组合逻辑 always 块，根据 current_state 和输入计算 next_state
+//    - 两段式避免组合逻辑环路，是标准写法
+//
+// 【4. match 输出逻辑】
+//    - 当前代码: assign level = (next_state == H)，纯组合逻辑，输出跟随 next_state
+//    - 注意: next_state 在当前时钟沿计算，下一拍才更新到 current_state
+//    - 若希望 match 只在检测到序列的**那一个时钟周期**成立，应使用:
+//        always @(posedge clk) match <= (current_state == H);
+//      即基于 current_state 寄存输出，输出会比 next_state 晚一拍
+//    - 当前实现 match 在状态 H 期间始终为 1，属于电平输出而非单脉冲
+//
+// 【5. 部分重叠（Overlapping）检测】
+//    - 当前状态机为"部分重叠"模式：检测到 H 后，下一个 0 不是从 IDLE 开始而是从 B 开始
+//      意味着检测到 10101101 后，如果下一 bit=0，下一个序列可能从 B 开始（1010_11xx...）
+//    - 非重叠模式: H 之后强制回到 IDLE，必须重新开始完整 8bit 序列
+//    - 选择哪种模式取决于应用需求，本设计采用部分重叠以提高检测灵敏度
+//
+// 【6. DATA_WIDTH 参数】
+//    - 参数定义为 8，表示待检测序列的总位数
+//    - 注意: 当前代码中 DATA_WIDTH 仅用于计算状态寄存器位宽，未参与状态转移逻辑
+//    - 若要支持任意长度序列的参数化，应在状态转移逻辑中动态使用 DATA_WIDTH
+// ============================================================================
+
+module sequence_detector #(
+    parameter DATA_WIDTH = 8
+) (
+    input clk, rst_n,
+    // detect 8'b1010_1101
+    input sequence,
+    output reg match
+);
+
+    localparam  IDLE = 0;
+    localparam  A = 1;
+    localparam  B = 2;
+    localparam  C = 3;
+    localparam  D = 4;
+    localparam  E = 5;
+    localparam  F = 6;
+    localparam  G = 7;
+    localparam  H = 8;
+    
+
+    reg [$clog2(DATA_WIDTH) + 1 - 1 : 0] current_state, next_state;
+
+    always @(posedge clk or negedge rst_n) begin
+        if (!rst_n) begin
+            match <= 1'b0;
+        end
+
+        else if (current_state == H) begin
+            match <= 1'b1;
+        end
+
+        else begin
+            match <= 1'b0;
+        end
+    end
+
+    always @(posedge clk or negedge rst_n) begin
+        if (!rst_n) begin
+            current_state <= 'b0;
+        end
+
+        else begin
+            current_state <= next_state;
+        end
+    end
+
+    always @(posedge clk or negedge rst_n) begin
+        if (!rst_n) begin
+            next_state <= 'b0;
+        end
+
+        else begin
+        case (current_state)
+            IDLE: begin
+                if (sequence) next_state <= A;
+                else next_state <= IDLE;
+            end 
+
+            A: begin
+                if (sequence) next_state <= A;
+                else next_state <= B;
+            end 
+
+            B: begin
+                if (sequence) next_state <= C;
+                else next_state <= IDLE;
+            end 
+
+            C: begin
+                if (sequence) next_state <= A;
+                else next_state <= D;
+            end 
+
+            D: begin
+                if (sequence) next_state <= E;
+                else next_state <= IDLE;
+            end 
+
+            E: begin
+                if (sequence) next_state <= F;
+                else next_state <= D;
+            end 
+
+            F: begin
+                if (sequence) next_state <= A;
+                else next_state <= G;
+            end 
+
+            G: begin
+                if (sequence) next_state <= H;
+                else next_state <= IDLE;
+            end 
+
+            H: begin
+                if (sequence) next_state <= A;
+                else next_state <= B;
+            end 
+            
+            default: next_state <= IDLE;
+        endcase
+        end
+    end
+endmodule
