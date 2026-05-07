@@ -1,1 +1,53 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQ0KLy8g44CQ55+l6K+G54K544CRDQovLw0KLy8g44CQMS4g5Y+C5pWw5YyW6K6+6K6h44CRDQovLyAgICAtIENOVF9OVU1CRVI6IOiuoeaVsOWZqOS4iumZkOWAvO+8iOiuoeaVsOWAvOiMg+WbtCAwIH4gQ05UX05VTUJFUi0x77yJDQovLyAgICAtIERBVEFfV0lEVEggPSAkY2xvZzIoQ05UX05VTUJFUik6IOiuoeaVsOWZqOeahOS9jeWuveW/hemhu+iDveWuuee6s+acgOWkp+eahOiuoeaVsOWAvA0KLy8gICAgLSDkvos6IENOVF9OVU1CRVI9OCDml7bvvIzorqHmlbDojIPlm7QgMH4377yMJGNsb2cyKDgpPTPvvIxjbnQg5Li6IDNiaXTvvIzotrPlpJ/ooajnpLogMH43DQovLyAgICAtIOazqOaEjzogJGNsb2cyKCkg5ZCR5LiK5Y+W5pW077yM5b2TIENOVF9OVU1CRVIg5LiN5pivIDIg55qE5bmC5qyh5pe25Lya5Lqn55Sf5YaX5L2Z54q25oCBDQovLyAgICAgIOS+izogQ05UX05VTUJFUj0xMO+8jCRjbG9nMigxMCk9NO+8jGNudCDlj6/ooajnpLogMH4xNe+8jOS9huacieaViOeKtuaAgeS7heS4uiAwfjkNCi8vICAgICAg6LaF5Ye66IyD5Zu055qEIDEwfjE1IOS4jeS8muiiq+iuv+mXruWIsO+8iGNudD09OSDlkI7kuIvkuIDkuKrkuLogMO+8ie+8jOS4jeW9seWTjeWKn+iDveS9hua1qui0ueeKtuaAgQ0KLy8NCi8vIOOAkDIuIOWkjeS9jeS/oeWPt+iuvuiuoeOAkQ0KLy8gICAgLSDlvILmraXlpI3kvY06IGFsd2F5cyBAKHBvc2VkZ2UgY2xrIG9yIG5lZ2VkZ2UgcnN0X24p77yM5aSN5L2N5L+h5Y+35LiN5L6d6LWW5pe26ZKfDQovLyAgICAtIOS9juacieaViOWkjeS9jSAoIXJzdF9uKTogMD3lpI3kvY3mnInmlYjvvIwxPeato+W4uOW3peS9nO+8jOS4jiBBU0lDIOS4reW4uOingeeahOS9juWkjeS9jeS4gOiHtA0KLy8gICAgLSDlpI3kvY3ml7YgY250IOa4hembtu+8jOS4juiuoeaVsOWZqOWIneWni+eKtuaAgeS4gOiHtO+8jOmBv+WFjeS4iueUteWQjueahOS4jeWumuaAgQ0KLy8NCi8vIOOAkDMuIOiuoeaVsOa6ouWHuuS/neaKpOOAkQ0KLy8gICAgLSDorqHliLAgQ05UX05VTUJFUi0xIOWQjuS4i+S4gOS4quaXtumSn+WRqOacn+a4hembtu+8jOmHjeaWsOS7jiAwIOW8gOWniw0KLy8gICAgLSDpgb/lhY3kuoborqHmlbDlmajotoXlh7rpooTmnJ/ojIPlm7TlkI7nu6fnu63pgJLlop7nmoTpl67popgNCi8vICAgIC0g5peg5LiT6IGMIG92ZXJmbG93IOagh+W/l+S9je+8jOeUsSBjbnQ9PUNOVF9OVU1CRVItMSDnmoTmr5TovoPnu5PmnpzpmpDlvI/nu5nlh7oNCi8vDQovLyDjgJA0LiDkvY3lrr3mianlsZXpl67popjjgJENCi8vICAgIC0gJ2IwIOaYr+WuveW6puS4uiAxIOeahOWtl+mdoumHj++8jOi1i+WAvOe7meWuveS/oeWPt+aXtiBWZXJpbG9nIOS8muiHquWKqOmbtuaJqeWxlQ0KLy8gICAgLSDkvYbkuLrmmI7noa7otbfop4HvvIzlu7rorq7lhpnkvZwge0RBVEFfV0lEVEh7MSdiMH1977yM5pi+5byP5aGr5ruhIERBVEFfV0lEVEgg5L2N5a69DQovLyAgICAtIOacrOaooeWdlyBjbnQg5a695bqm55Sx5Y+C5pWw5Yaz5a6a77yMJ2IwIOWPr+ato+W4uOW3peS9nO+8jOS9huaYvuW8j+WGmeazleabtOinhOiMgw0KLy8NCi8vIOOAkDUuICRjbG9nMigpIOezu+e7n+WHveaVsOOAkQ0KLy8gICAgLSAkY2xvZzIoTikgPSBjZWlsKGxvZzIoTikp77yM6L+U5Zue6IO96KGo56S6IDB+Ti0xIOaJgOmcgOeahOacgOWwkeavlOeJueaVsA0KLy8gICAgLSAkY2xvZzIoOCkgPSAzLCAkY2xvZzIoMTApID0gNCwgJGNsb2cyKDEpID0gMA0KLy8gICAgLSDkvos6IOimgeiuoeWIsCAxNSDpnIDopoEgNGJpdO+8jCRjbG9nMigxNik9NO+8m+iuoeWIsCAxNiDpnIDopoEgNWJpdO+8jCRjbG9nMigxNyk9NQ0KLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQ0KDQptb2R1bGUgTl9iaXRfY250ICMoDQogICAgcGFyYW1ldGVyIENOVF9OVU1CRVIgPSA4LA0KICAgIHBhcmFtZXRlciBEQVRBX1dJRFRIID0gJGNsb2cyKENOVF9OVU1CRVIpDQopKA0KICAgIGlucHV0IGNsaywgcnN0X24sDQogICAgb3V0cHV0IHJlZyBbREFUQV9XSURUSCAtIDEgOiAwXSBjbnQNCik7DQogICAgYWx3YXlzIEAocG9zZWRnZSBjbGsgb3IgbmVnZWRnZSByc3RfbikgYmVnaW4NCiAgICAgICAgaWYgKCFyc3RfbikgYmVnaW4NCiAgICAgICAgICAgIGNudCA8PSAnYjA7DQogICAgICAgIGVuZA0KDQogICAgICAgIGVsc2UgaWYgKGNudCA9PSBDTlRfTlVNQkVSIC0gMSkgYmVnaW4NCiAgICAgICAgICAgIGNudCA8PSAnYjA7DQogICAgICAgIGVuZA0KDQogICAgICAgIGVsc2UgYmVnaW4NCiAgICAgICAgICAgIGNudCA8PSBjbnQgKyAxJ2IxOw0KICAgICAgICBlbmQNCiAgICBlbmQNCmVuZG1vZHVsZQ0K
+// ============================================================================
+// 【知识点】
+//
+// 【1. 参数化设计】
+//    - CNT_NUMBER: 计数器上限值（计数值范围 0 ~ CNT_NUMBER-1）
+//    - DATA_WIDTH = $clog2(CNT_NUMBER): 计数器的位宽必须能容纳最大的计数值
+//    - 例: CNT_NUMBER=8 时，计数范围 0~7，$clog2(8)=3，cnt 为 3bit，足够表示 0~7
+//    - 注意: $clog2() 向上取整，当 CNT_NUMBER 不是 2 的幂次时会产生冗余状态
+//      例: CNT_NUMBER=10，$clog2(10)=4，cnt 可表示 0~15，但有效状态仅为 0~9
+//      超出范围的 10~15 不会被访问到（cnt==9 后下一个为 0），不影响功能但浪费状态
+//
+// 【2. 复位信号设计】
+//    - 异步复位: always @(posedge clk or negedge rst_n)，复位信号不依赖时钟
+//    - 低有效复位 (!rst_n): 0=复位有效，1=正常工作，与 ASIC 中常见的低复位一致
+//    - 复位时 cnt 清零，与计数器初始状态一致，避免上电后的不定态
+//
+// 【3. 计数溢出保护】
+//    - 计到 CNT_NUMBER-1 后下一个时钟周期清零，重新从 0 开始
+//    - 避免了计数器超出预期范围后继续递增的问题
+//    - 无专职 overflow 标志位，由 cnt==CNT_NUMBER-1 的比较结果隐式给出
+//
+// 【4. 位宽扩展问题】
+//    - 'b0 是宽度为 1 的字面量，赋值给宽信号时 Verilog 会自动零扩展
+//    - 但为明确起见，建议写作 {DATA_WIDTH{1'b0}}，显式填满 DATA_WIDTH 位宽
+//    - 本模块 cnt 宽度由参数决定，'b0 可正常工作，但显式写法更规范
+//
+// 【5. $clog2() 系统函数】
+//    - $clog2(N) = ceil(log2(N))，返回能表示 0~N-1 所需的最少比特数
+//    - $clog2(8) = 3, $clog2(10) = 4, $clog2(1) = 0
+//    - 例: 要计到 15 需要 4bit，$clog2(16)=4；计到 16 需要 5bit，$clog2(17)=5
+// ============================================================================
+
+module N_bit_cnt #(
+    parameter CNT_NUMBER = 8,
+    parameter DATA_WIDTH = $clog2(CNT_NUMBER)
+)(
+    input clk, rst_n,
+    output reg [DATA_WIDTH - 1 : 0] cnt
+);
+    always @(posedge clk or negedge rst_n) begin
+        if (!rst_n) begin
+            cnt <= 'b0;
+        end
+
+        else if (cnt == CNT_NUMBER - 1) begin
+            cnt <= 'b0;
+        end
+
+        else begin
+            cnt <= cnt + 1'b1;
+        end
+    end
+endmodule
