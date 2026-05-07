@@ -1,0 +1,6 @@
+*
+!.gitignore
+!coding/
+!coding/**/
+!coding/**/*.v
+!coding/**/*.md
