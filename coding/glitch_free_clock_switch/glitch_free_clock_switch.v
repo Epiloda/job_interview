@@ -1,1 +1,104 @@
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQ0KLy8g44CQ55+l6K+G54K544CRDQovLw0KLy8g44CQMS4g5peg5q+b5Yi65pe26ZKf5YiH5o2i77yIR2xpdGNoLUZyZWUgQ2xvY2sgU3dpdGNoaW5n77yJ6Zeu6aKY6IOM5pmv44CRDQovLyAgICAtIOebtOaOpeeUqCBNVVgg5oiW57uE5ZCI6YC76L6R6YCJ5oup5pe26ZKf5Lya5Lqn55Sf5q+b5Yi677ya5pe26ZKf6L655rK/5Lqk6ZSZ5pe25Lya5Ye6546w5bCW5bOwDQovLyAgICAtIOekuuS+izogY2xrX291dCA9IHNlbCA/IGNsazEgOiBjbGsw77yM6IulIHNlbCDlnKggY2xrMCDpq5jnlLXlubPmnJ/pl7Tlj5jljJbvvIwNCi8vICAgICAgY2xrX291dCDlj6/og73kuqfnlJ/mnoHnqoTnmoQgZ2xpdGNoIOiEieWGsu+8jOWvvOiHtOWQjue6p+eUtei3r+ivr+inpuWPkQ0KLy8gICAgLSDop6PlhrPmlrnmoYg6IOWcqOWIh+aNouaXtumSn+aXtu+8jOehruS/neaXp+aXtumSn+WujOWFqOWFs+mXreWQju+8jOaWsOaXtumSn+aJjeW8gOWQrw0KLy8NCi8vIOOAkDIuIOacrOaooeWdl+aetuaehO+8iOWPjOi3r+W+hOaPoeaJi+W8j++8ieKAlOKAlOaciSBCVUfvvIzor6bop4HnrKwgNSDmnaHjgJENCi8vICAgIC0gY2xrMCDot6/lvoQ6IGNsazBfZGZmMCDihpIgY2xrMF9kZmYxIOKGkiBjbGswX21hc2tlZCA9IGNsazAgJiBjbGswX2RmZjENCi8vICAgIC0gY2xrMSDot6/lvoQ6IGNsazFfZGZmMCDihpIgY2xrMV9kZmYxIOKGkiBjbGsxX21hc2tlZCA9IGNsazEgJiBjbGsxX2RmZjENCi8vICAgIC0gY2xrX291dCA9IGNsazBfbWFza2VkIHwgY2xrMV9tYXNrZWTvvIzkuKTkuKrot6/lvoTkupLmlqUNCi8vICAgIC0g5YiH5o2i5pe25bqPIChzZWw9MCDihpIgc2VsPTEpOg0KLy8gICAgICAgIFN0ZXAxOiBjbGsxX2RmZjAg5ZyoIGNsazEg5LiL6ZmN5rK/6YeH5qC3IHNlbCAmIH5jbGswX2RmZjHvvIzlvIDlp4vmi4npq5gNCi8vICAgICAgICBTdGVwMjogY2xrMV9kZmYxIOWvhOWtmCBjbGsxX2RmZjDvvIznoa7orqQgY2xrMSDlt7LmjqXnrqENCi8vICAgICAgICBTdGVwMzogY2xrMF9kZmYwIOWcqCBjbGswIOS4i+mZjeayv+ajgOa1i+WIsCB+Y2xrMV9kZmYxPTDvvIzlgZzmraLmi4npq5gNCi8vICAgICAgICBTdGVwNDogY2xrMF9kZmYxIOWvhOWtmCBjbGswX2RmZjDvvIznoa7orqQgY2xrMCDlt7LlhbPpl60NCi8vICAgICAg5LiJ6YeN5L+d6ZqcOiDml6fml7bpkp/lv4Xpobvnu4/ljoboh7PlsJHkuIDkuKrlrozmlbTlkajmnJ8gKyDkuKTnuqcgREZGIOWQjOatpeW7tui/nw0KLy8NCi8vIOOAkDMuIOS4uuS7gOS5iOeUqOaXtumSn+S4i+mZjeayv+inpuWPkSBhbHdheXMg5Z2X77yf44CRDQovLyAgICAtIOS4i+mZjeayv+inpuWPkeS9vyBjbGswIOi3r+W+hOWSjCBjbGsxIOi3r+W+hOWIhuWIq+WcqOWQhOiHquaXtumSn+eahOS9jueUteW5s+acn+mXtOabtOaWsA0KLy8gICAgLSBjbGswX21hc2tlZCDlj6rlnKggY2xrMCDkvY7nlLXlubPml7blj6/og73lj5jljJbvvIhjbGswPTAg5pe2IEFORCDnu5Pmnpzlv4XkuLogMO+8iQ0KLy8gICAgLSBjbGsxX21hc2tlZCDlj6rlnKggY2xrMSDkvY7nlLXlubPml7blj6/og73lj5jljJbvvIhjbGsxPTAg5pe2IEFORCDnu5Pmnpzlv4XkuLogMO+8iQ0KLy8gICAgLSDlhbPplK46IOaXp+aXtumSn+WFs+mXrShjbGtfbWFza2VkPTAp5ZKM5paw5pe26ZKf5byA5ZCvKGNsa19tYXNrZWQ9MSnpg73lnKjkvY7nlLXlubPlj5HnlJ8NCi8vICAgICAg6YG/5YWN5Zyo6auY55S15bmz5YiH5o2i5a+86Ie055+t6ISJ5Yay56qB546wDQovLyAgICAtIOazqOaEjzog5pys5qih5Z2X55qEIGFsd2F5cyBAKG5lZ2VkZ2UgY2xrMCkg5LiN5piv6Leo5pe26ZKf5Z+f5ZCM5q2l77yM6ICM5piv5Y+X5o6n5LqO55uu5qCH5pe26ZKfDQovLw0KLy8g44CQNC4g5Lik57qnIERGRiDlkIzmraXlmajnmoTkvZznlKjjgJENCi8vICAgIC0g56ys5LiA57qnKGRmZjApOiDph4fmoLfmj6HmiYvkv6Hlj7fvvIzmtojpmaTkuprnqLPmgIHpo47pmakNCi8vICAgIC0g56ys5LqM57qnKGRmZjEpOiDnqLPlrprovpPlh7rvvIzkvZzkuLrml7bpkp/pl6jmjqfnmoQgZW5hYmxlIOS/oeWPtw0KLy8gICAgLSDlj6rmnIkgZGZmMT0xIOaXtu+8jGNsa19tYXNrZWQg5omN5Y+v6IO95Li6IDHvvIzkv53or4Hml7bpkp/liIfmjaLlronlhagNCi8vDQovLyDjgJA1LiDnjrDmnInku6PnoIHnmoQgQlVHIOKAlCBMaW5lIDM2IOiHquaIkeWPjemmiOOAkQ0KLy8gICAgLSDplJnor6/ku6PnoIE6IGFsd2F5cyBAKG5lZ2VkZ2UgY2xrMSkgY2xrMV9kZmYxIDw9IGNsazFfZGZmMTsgIC8vIOiHquWPjemmiA0KLy8gICAgLSDmraPnoa7lupTkuLo6IGFsd2F5cyBAKG5lZ2VkZ2UgY2xrMSkgY2xrMV9kZmYxIDw9IGNsazFfZGZmMDsNCi8vICAgIC0g5ZCO5p6cOiBjbGsxX2RmZjEg5rC46L+c5YGc5Zyo5aSN5L2N5YC8IDDvvIxjbGsxX21hc2tlZCA9IGNsazEgJiAwID0gMA0KLy8gICAgICDljbPml6Dorrogc2VsPTAvMe+8jGNsazEg6Lev5b6E5rC46L+c5peg5rOV5byA5ZCv77yM5qih5Z2X5Y+q6IO96L6T5Ye6IGNsazDvvIzml6Dms5XliIfmjaINCi8vICAgIC0g5ZCM5qC355qE5p625p6E77yMY2xrMCDot6/lvoTvvIhMaW5lIDIz77yJ5piv5q2j56Gu55qEOiBjbGswX2RmZjEgPD0gY2xrMF9kZmYwDQovLyAgICAtIOaVmeiurTog5qOA5p+l5q+P5LiqIERGRiDnmoQgRCDovpPlhaXmmK/lkKbmmK/liY3nuqfovpPlh7rvvIzogIzpnZ7oh6rouqvlj43ppogNCi8vDQovLyDjgJA2LiBjbGsg5L2c5Li65qih5Z2X5YaF6YOo5pe26ZKf55qE6Zeu6aKY44CRDQovLyAgICAtIOacrOaooeWdl+eUqCBjbGswL2NsazEg5L2c5Li6IGFsd2F5cyDlnZfnmoTml7bpkp/kv6Hlj7fvvIzmmK8i55So5aSW6YOo5pe26ZKf6amx5Yqo5YaF6YOo6YC76L6RIg0KLy8gICAgLSDmraPluLggQ0RDIOi3qOaXtumSn+Wfn+eUqOS4pOe6p+WQjOatpeWZqO+8m+i/memHjOaYryLlkIzkuIDkv6Hlj7flnKjkuI3lkIzml7bpkp/ln5/pl7TkuqTlj4kiDQovLyAgICAtIHNlbCDlj5jljJbml7bvvIxjbGsxX2RmZjAg5ZyoIGNsazEg5LiL6ZmN5rK/6YeH5qC377yM6IulIHNlbCDlj5jljJbmgbDlpb3lnKggY2xrMSDkuIvpmY3msr/pmYTov5HvvIwNCi8vICAgICAg5Y+v6IO96L+d5Y+NIERGRiDnmoQgc2V0dXAvaG9sZCDml7bpl7TvvIzkuqfnlJ/kuprnqLPmgIENCi8vICAgIC0g5pS56L+b5pa55qGIOiDlhYjlsIYgc2VsIOeUqOS4pOe6pyBERkYg5ZCM5q2l5YiwIGNsazAvY2xrMSDml7bpkp/ln5/vvIzlho3lj4LkuI7mj6HmiYvpgLvovpENCi8vDQovLyDjgJA3LiDlpI3kvY3kuI7liJ3lp4vnirbmgIHjgJENCi8vICAgIC0g5aSN5L2N5pe2IGNsazBfZGZmMD0xLCBjbGswX2RmZjE9MSDihpIgY2xrMF9tYXNrZWQ9Me+8iOm7mOiupOmAiSBjbGsw77yJDQovLyAgICAgICAgICAgICAgY2xrMV9kZmYwPTAsIGNsazFfZGZmMT0wIOKGkiBjbGsxX21hc2tlZD0w77yIY2xrMSDlhbPpl63vvIkNCi8vICAgIC0gY2xrMF9kZmYwIOehrOe8lueggeS4uiAxJ2IxIOS4jeS+nei1liBzZWzvvIzkv53or4HkuoblpI3kvY3lkI4gY2xrMCDpu5jorqTlvIDlkK8NCi8vICAgIC0g5a6e6ZmF5bqU55So5Lit77yM5aSN5L2N6YeK5pS+5ZCO6ZyA6KaB562J5b6F5pe26ZKf5YiH5o2i5bqP5YiX5a6M5oiQ5omN6IO956iz5a6a5YiH5o2iDQovLw0KLy8g44CQOC4g5Y+C5pWw5YyW5omp5bGV44CRDQovLyAgICAtIOW9k+WJjSBzZWwg5pivIDFiaXTvvIzlj6rog73lnKggY2xrMC9jbGsxIOS6jOmAieS4gA0KLy8gICAgLSDlpJrot6/ml7bpkp/liIfmjaLvvIjlpoIgNCDpgIkgMe+8iemcgOimgeS9v+eUqCBvbmUtaG90IOe8lueggeeahOeKtuaAgeacuueuoeeQhuWQhOi3r+S8mOWFiOe6pw0KLy8gICAgLSDmoLjlv4Pljp/liJnkuI3lj5g6IOS7u+S9leaXtuWIu+acgOWkmuWPquacieS4gOi3r+aXtumSn+iiq+WQr+eUqA0KLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQ0KDQptb2R1bGUgZ2xpdGNoX2ZyZWVfY2xvY2tfc3dpdGNoICgNCiAgICBpbnB1dCBjbGswLCBjbGsxLA0KICAgIGlucHV0IHJzdF9uLA0KICAgIGlucHV0IHNlbCwNCg0KICAgIG91dHB1dCBjbGtfb3V0DQopOw0KICAgIHJlZyBjbGswX2RmZjAsIGNsazBfZGZmMTsNCiAgICByZWcgY2xrMV9kZmYwLCBjbGsxX2RmZjE7DQoNCiAgICB3aXJlIGNsazBfbWFza2VkOw0KICAgIHdpcmUgY2xrMV9tYXNrZWQ7DQoNCiAgICAvLyBkZWZhdWx0IHNlbCBjbGswLCB3aGVuIGNsazFfbWFza2VkIGNvbXBsZXRlbHkgc2h1dGRvd24sIHN3aXRjaCB0byBjbGswIA0KICAgIGFsd2F5cyBAKG5lZ2VkZ2UgY2xrMCBvciBuZWdlZGdlIHJzdF9uKSBiZWdpbg0KICAgICAgICBpZiAoIXJzdF9uKSBiZWdpbg0KICAgICAgICAgICAgY2xrMF9kZmYwIDw9IDEnYjE7DQogICAgICAgICAgICBjbGswX2RmZjEgPD0gMSdiMTsNCiAgICAgICAgZW5kDQoNCiAgICAgICAgZWxzZSBiZWdpbg0KICAgICAgICAgICAgY2xrMF9kZmYwIDw9ICghc2VsKSAmICghY2xrMV9kZmYxKTsNCiAgICAgICAgICAgIGNsazBfZGZmMSA8PSBjbGswX2RmZjA7DQogICAgICAgIGVuZA0KICAgIGVuZA0KDQogICAgLy8gd2hlbiBjbGswX21hc2tlZCBjb21wbGV0ZWx5IHNodXRkb3duLCBzd2l0Y2ggdG8gY2xrMQ0KICAgIGFsd2F5cyBAKG5lZ2VkZ2UgY2xrMSBvciBuZWdlZGdlIHJzdF9uKSBiZWdpbg0KICAgICAgICBpZiAoIXJzdF9uKSBiZWdpbg0KICAgICAgICAgICAgY2xrMV9kZmYwIDw9IDEnYjA7DQogICAgICAgICAgICBjbGsxX2RmZjEgPD0gMSdiMDsNCiAgICAgICAgZW5kDQoNCiAgICAgICAgZWxzZSBiZWdpbg0KICAgICAgICAgICAgY2xrMV9kZmYwIDw9IHNlbCAmICghY2xrMF9kZmYxKTsNCiAgICAgICAgICAgIGNsazFfZGZmMSA8PSBjbGsxX2RmZjA7ICAvLyBGSVg6IOWOn+S7o+eggSBjbGsxX2RmZjEgPD0gY2xrMV9kZmYxIOaYryBCVUcNCiAgICAgICAgZW5kDQogICAgZW5kDQoNCiAgICBhc3NpZ24gY2xrMF9tYXNrZWQgPSBjbGswICYgY2xrMF9kZmYxOw0KICAgIGFzc2lnbiBjbGsxX21hc2tlZCA9IGNsazEgJiBjbGsxX2RmZjE7DQoNCiAgICBhc3NpZ24gY2xrX291dCA9IGNsazBfbWFza2VkIHwgY2xrMV9tYXNrZWQ7DQplbmRtb2R1bGUNCg==
+// ============================================================================
+// 【知识点】
+//
+// 【1. 无毛刺时钟切换（Glitch-Free Clock Switching）问题背景】
+//    - 直接用 MUX 或组合逻辑选择时钟会产生毛刺：时钟边沿交错时会出现尖峰
+//    - 示例: clk_out = sel ? clk1 : clk0，若 sel 在 clk0 高电平期间变化，
+//      clk_out 可能产生极窄的 glitch 脉冲，导致后级电路误触发
+//    - 解决方案: 在切换时钟时，确保旧时钟完全关闭后，新时钟才开启
+//
+// 【2. 本模块架构（双路径握手式）——有 BUG，详见第 5 条】
+//    - clk0 路径: clk0_dff0 → clk0_dff1 → clk0_masked = clk0 & clk0_dff1
+//    - clk1 路径: clk1_dff0 → clk1_dff1 → clk1_masked = clk1 & clk1_dff1
+//    - clk_out = clk0_masked | clk1_masked，两个路径互斥
+//    - 切换时序 (sel=0 → sel=1):
+//        Step1: clk1_dff0 在 clk1 下降沿采样 sel & ~clk0_dff1，开始拉高
+//        Step2: clk1_dff1 寄存 clk1_dff0，确认 clk1 已接管
+//        Step3: clk0_dff0 在 clk0 下降沿检测到 ~clk1_dff1=0，停止拉高
+//        Step4: clk0_dff1 寄存 clk0_dff0，确认 clk0 已关闭
+//      三重保障: 旧时钟必须经历至少一个完整周期 + 两级 DFF 同步延迟
+//
+// 【3. 为什么用时钟下降沿触发 always 块？】
+//    - 下降沿触发使 clk0 路径和 clk1 路径分别在各自时钟的低电平期间更新
+//    - clk0_masked 只在 clk0 低电平时可能变化（clk0=0 时 AND 结果必为 0）
+//    - clk1_masked 只在 clk1 低电平时可能变化（clk1=0 时 AND 结果必为 0）
+//    - 关键: 旧时钟关闭(clk_masked=0)和新时钟开启(clk_masked=1)都在低电平发生
+//      避免在高电平切换导致短脉冲突现
+//    - 注意: 本模块的 always @(negedge clk0) 不是跨时钟域同步，而是受控于目标时钟
+//
+// 【4. 两级 DFF 同步器的作用】
+//    - 第一级(dff0): 采样握手信号，消除亚稳态风险
+//    - 第二级(dff1): 稳定输出，作为时钟门控的 enable 信号
+//    - 只有 dff1=1 时，clk_masked 才可能为 1，保证时钟切换安全
+//
+// 【5. 现有代码的 BUG — Line 36 自我反馈】
+//    - 错误代码: always @(negedge clk1) clk1_dff1 <= clk1_dff1;  // 自反馈
+//    - 正确应为: always @(negedge clk1) clk1_dff1 <= clk1_dff0;
+//    - 后果: clk1_dff1 永远停在复位值 0，clk1_masked = clk1 & 0 = 0
+//      即无论 sel=0/1，clk1 路径永远无法开启，模块只能输出 clk0，无法切换
+//    - 同样的架构，clk0 路径（Line 23）是正确的: clk0_dff1 <= clk0_dff0
+//    - 教训: 检查每个 DFF 的 D 输入是否是前级输出，而非自身反馈
+//
+// 【6. clk 作为模块内部时钟的问题】
+//    - 本模块用 clk0/clk1 作为 always 块的时钟信号，是"用外部时钟驱动内部逻辑"
+//    - 正常 CDC 跨时钟域用两级同步器；这里是"同一信号在不同时钟域间交叉"
+//    - sel 变化时，clk1_dff0 在 clk1 下降沿采样，若 sel 变化恰好在 clk1 下降沿附近，
+//      可能违反 DFF 的 setup/hold 时间，产生亚稳态
+//    - 改进方案: 先将 sel 用两级 DFF 同步到 clk0/clk1 时钟域，再参与握手逻辑
+//
+// 【7. 复位与初始状态】
+//    - 复位时 clk0_dff0=1, clk0_dff1=1 → clk0_masked=1（默认选 clk0）
+//              clk1_dff0=0, clk1_dff1=0 → clk1_masked=0（clk1 关闭）
+//    - clk0_dff0 硬编码为 1'b1 不依赖 sel，保证了复位后 clk0 默认开启
+//    - 实际应用中，复位释放后需要等待时钟切换序列完成才能稳定切换
+//
+// 【8. 参数化扩展】
+//    - 当前 sel 是 1bit，只能在 clk0/clk1 二选一
+//    - 多路时钟切换（如 4 选 1）需要使用 one-hot 编码的状态机管理各路优先级
+//    - 核心原则不变: 任何时刻最多只有一路时钟被启用
+// ============================================================================
+
+module glitch_free_clock_switch (
+    input clk0, clk1,
+    input rst_n,
+    input sel,
+
+    output clk_out
+);
+    reg clk0_dff0, clk0_dff1;
+    reg clk1_dff0, clk1_dff1;
+
+    wire clk0_masked;
+    wire clk1_masked;
+
+    // default sel clk0, when clk1_masked completely shutdown, switch to clk0 
+    always @(negedge clk0 or negedge rst_n) begin
+        if (!rst_n) begin
+            clk0_dff0 <= 1'b1;
+            clk0_dff1 <= 1'b1;
+        end
+
+        else begin
+            clk0_dff0 <= (!sel) & (!clk1_dff1);
+            clk0_dff1 <= clk0_dff0;
+        end
+    end
+
+    // when clk0_masked completely shutdown, switch to clk1
+    always @(negedge clk1 or negedge rst_n) begin
+        if (!rst_n) begin
+            clk1_dff0 <= 1'b0;
+            clk1_dff1 <= 1'b0;
+        end
+
+        else begin
+            clk1_dff0 <= sel & (!clk0_dff1);
+            clk1_dff1 <= clk1_dff0;  // FIX: 原代码 clk1_dff1 <= clk1_dff1 是 BUG
+        end
+    end
+
+    assign clk0_masked = clk0 & clk0_dff1;
+    assign clk1_masked = clk1 & clk1_dff1;
+
+    assign clk_out = clk0_masked | clk1_masked;
+endmodule
