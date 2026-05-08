@@ -16,7 +16,19 @@
 
 ---
 
-## 2. N 位计数器
+## 2. 同步 FIFO
+
+- **文件**：[coding/sync_fifo/sync_fifo.v](coding/sync_fifo/sync_fifo.v)
+- **语言**：Verilog
+- **知识点**：
+  - 计数器法判断满/空 — 支持非 2 幂次深度（扩展 1 bit 法仅适用于 2^n）
+  - 阻塞赋值 vs 非阻塞赋值 — 时序 always 块必须统一使用 <=
+  - 写满/读空保护 — 满时禁止写，空时禁止读
+  - mem 复位 off-by-one 错误 — 循环边界需写对
+
+---
+
+## 3. N 位计数器
 
 - **文件**：[coding/N_bit_cnt/N_bit_cnt.v](coding/N_bit_cnt/N_bit_cnt.v)
 - **语言**：Verilog
@@ -28,7 +40,7 @@
 
 ---
 
-## 3. 序列检测器
+## 4. 序列检测器
 
 - **文件**：[coding/sequence_detector/sequence_detector.v](coding/sequence_detector/sequence_detector.v)
 - **语言**：Verilog
@@ -41,7 +53,7 @@
 
 ---
 
-## 4. 无毛刺时钟切换器
+## 5. 无毛刺时钟切换器
 
 - **文件**：[coding/glitch_free_clock_switch/glitch_free_clock_switch.v](coding/glitch_free_clock_switch/glitch_free_clock_switch.v)
 - **语言**：Verilog
