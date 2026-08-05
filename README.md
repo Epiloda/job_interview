@@ -16,7 +16,43 @@
 
 ---
 
-## 2. N 位计数器
+## 2. 同步 FIFO
+
+- **文件**：[coding/sync_fifo/sync_fifo.v](coding/sync_fifo/sync_fifo.v)
+- **语言**：Verilog
+- **知识点**：
+  - 计数器法判断满/空 — 支持非 2 幂次深度（扩展 1 bit 法仅适用于 2^n）
+  - 阻塞赋值 vs 非阻塞赋值 — 时序 always 块必须统一使用 <=
+  - 写满/读空保护 — 满时禁止写，空时禁止读
+  - mem 复位 off-by-one 错误 — 循环边界需写对
+
+---
+
+## 3. 固定优先级仲裁器
+
+- **文件**：[coding/arbiter/arbiter.v](coding/arbiter/arbiter.v)
+- **语言**：Verilog
+- **知识点**：
+  - 固定优先级仲裁 — 低位请求拥有更高优先级
+  - `req & ~(req - 1'b1)` 提取最低位有效请求
+  - 组合逻辑实现 — 请求变化后立即产生 one-hot grant
+  - 参数化请求宽度，适配不同数量的请求端
+
+---
+
+## 4. 轮询仲裁器
+
+- **文件**：[coding/round_arbiter/round_arbiter.v](coding/round_arbiter/round_arbiter.v)
+- **语言**：Verilog
+- **知识点**：
+  - Round-Robin 仲裁 — 每次授权后轮转请求优先级，避免低优先级请求饥饿
+  - Mask 机制 — 优先处理 mask 范围内的请求，无命中时回绕仲裁
+  - one-hot grant 生成 — 复用最低有效位提取逻辑
+  - 根据本轮 grant 更新 priority mask，确定下一轮起始优先级
+
+---
+
+## 5. N 位计数器
 
 - **文件**：[coding/N_bit_cnt/N_bit_cnt.v](coding/N_bit_cnt/N_bit_cnt.v)
 - **语言**：Verilog
@@ -28,7 +64,7 @@
 
 ---
 
-## 3. 序列检测器
+## 6. 序列检测器
 
 - **文件**：[coding/sequence_detector/sequence_detector.v](coding/sequence_detector/sequence_detector.v)
 - **语言**：Verilog
@@ -41,7 +77,7 @@
 
 ---
 
-## 4. 无毛刺时钟切换器
+## 7. 无毛刺时钟切换器
 
 - **文件**：[coding/glitch_free_clock_switch/glitch_free_clock_switch.v](coding/glitch_free_clock_switch/glitch_free_clock_switch.v)
 - **语言**：Verilog
